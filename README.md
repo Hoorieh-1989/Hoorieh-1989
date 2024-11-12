@@ -9,7 +9,7 @@ I'm a **Frontend Developer** turning **Cloud Developer** with a background as un
 I’m driven, determined, and all-in on both **frontend development** and my new adventure in the **Azure cloud**! I love creating intuitive, powerful interfaces and am now diving into the exciting possibilities of cloud-based applications.
 
 ## 💙 My Favorite Tools: React & Azure
-For frontend work, **React** is my go-to. It’s more than just a framework—it’s how I bring ideas to life! And now, as I expand into cloud development, I’m focused on mastering **Microsoft Azure** to build scalable, efficient applications from the ground up.
+For frontend work, **React** is my go-to. It’s more than just a framework—it’s how I bring ideas to life! And now, as I expand into cloud development, I’m focused on mastering C# **Microsoft Azure** to build scalable, efficient applications from the ground up.
 
 ## 🤝 Let’s Team Up and Build Something Amazing
 I’m always open to collaborating on projects that use **JavaScript libraries, frameworks, cloud services,** and anything that helps create awesome web experiences. Let’s team up and bring some innovative ideas to life!
@@ -26,9 +26,10 @@ I got my front-end development chops at a **Swedish yrkeshögskola** (Higher Voc
 ### 🛠️ Languages & Tools
 
 - **Frontend:** JavaScript, HTML, CSS, React
-- **Cloud:** Microsoft Azure (in progress!)
+- **Cloud:** Microsoft Azure, C# , sql (in progress!)
 - **Other Tools:** Figma, Tailwind CSS, Git & GitHub
 - **Learning:** Azure Functions, Storage, DevOps practices
+  
 
 ---
 
